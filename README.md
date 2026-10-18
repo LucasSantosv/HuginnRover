@@ -42,7 +42,7 @@ Cada teste deve indicar configuração, data, método, resultado observado e lim
 
 ## Contribuições e licença
 
-Este repositório está sendo preparado para publicação. Até que uma licença seja escolhida e adicionada, não presuma permissão para reutilizar, modificar ou redistribuir o conteúdo. Veja [`docs/licensing.md`](docs/licensing.md).
+Este repositório é público. Até que uma licença seja escolhida e adicionada, não presuma permissão para reutilizar, modificar ou redistribuir o conteúdo. Veja [`docs/licensing.md`](docs/licensing.md).
 
 ## Idioma
 
