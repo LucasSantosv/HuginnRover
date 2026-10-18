@@ -1,0 +1,7 @@
+# Generated build artifacts
+build/
+.pio/
+
+# Operating system files
+.DS_Store
+Thumbs.db
