@@ -1,5 +1,16 @@
 # HuginnRover
 
+## Vídeo de apresentação — versão 1.0
+
+Conheça o HuginnRover 1.0 no vídeo de apresentação do projeto. Clique na capa para assistir no YouTube.
+
+[![HuginnRover 1.0 — assistir ao vídeo de apresentação](media/rover-capa-youtube-1280x720.jpg)](https://youtu.be/AYv1k4ATDqQ)
+
+[Assistir ao vídeo no YouTube](https://youtu.be/AYv1k4ATDqQ)
+
+*Capa artística editada com IA a partir de uma foto do rover; o cenário de Marte é ilustrativo.*
+
+
 **Plataforma robótica móvel, modular e expansível — projeto em desenvolvimento.**
 
 HuginnRover é um projeto pessoal de robótica com foco em baixo custo, alcance de comunicação, interfaces e capacidade de receber novas funções por meio de hardware e software desenvolvidos e integrados ao longo do tempo. A intenção é construir e entender o sistema de ponta a ponta, registrando resultados reais e limitações.
